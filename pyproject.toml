@@ -9,8 +9,8 @@ homepage = "https://chime-frb-open-data.github.io/"
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.6"
-pyephem = "^3.7.7"
+python = ">=3.10,<3.12"
+pyephem = "^9.99"
 numpy = ">=1.18.5"
 scipy = "^1.4.1"
 h5py = ">=3.0"
