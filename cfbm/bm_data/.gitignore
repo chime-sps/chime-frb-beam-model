@@ -4,3 +4,5 @@
 !.gitignore
 !get_data.py
 !__init__.py
+!beam_XX_v1.h5
+!beam_YY_v1.h5
